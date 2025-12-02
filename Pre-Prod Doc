@@ -15,10 +15,8 @@ The aim of the game is to keep the character alive as long as possible.
 The main character the player has to look after will either be:-
 - A simple slime humanoid inspired by the graffiti seen on London trains. This would make the landscape of the game a city, with either an industrial or cyber-punk theme.
 - A fae/elemental sprite, that will change based on pickups. These pick-ups will mostly act as points, adding to the score. (They may also give the character an extra movement or attack option)
+- A Sheep with colour changing wool.
 
-Enemies will either be:- 
-- Different coloured slime creatures that wish to absorb you into them (Make your slime person land ontop of them to increase movment speed?).
-- Darkness/distruction sprites, that take elemental energy to defeat.
 
 
 **Controls**
