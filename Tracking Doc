@@ -4,3 +4,12 @@ In this document, I will include short descriptions of every stage of the develo
 
 **Code**
 Established gravity in the game, which will ensure the character will fall when not stood on a block.
+
+
+Game Name - ***Guidance of the Cave***
+The game is a simple puzzle platformer set in a cave.
+Rather than the player controling the main character, they instead take the role of The Cave.
+The player will be able to parts of The Cave to protect and guide the small sheep.
+
+The parts of The Cave the player can move are:
+Moss Blocks - controlled by holding 'G' or Triangle, and pressing 'WASD' or The Arrow Buttons to move all blocks in the area.
